@@ -78,7 +78,7 @@ int main()
   eventList[0] = GetArrival();
   int processed = 0;
 
-  while ((eventList[0] <= STOP) /*|| !isEmpty(number)*/) {
+  while ((eventList[0] <= STOP) || !isEmpty(number)) {
     int i = NextEvent(eventList,5);  /* next event index   */
     t.next = eventList[i]; 
     for(int x = 1; x< 5; x++){
