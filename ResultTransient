@@ -1,0 +1,60 @@
+Config number: 1
+p12: 0.80
+p22: 0.16
+p32: 0.16
+Mean response time: 1.237 +/- 0.006
+Mean remaining jobs: 13.470 +/- 1.545
+Config number: 2
+p12: 0.85
+p22: 0.12
+p32: 0.18
+Mean response time: 1.229 +/- 0.007
+Mean remaining jobs: 14.980 +/- 1.400
+Config number: 3
+p12: 0.80
+p22: 0.16
+p32: 0.18
+Mean response time: 1.238 +/- 0.007
+Mean remaining jobs: 11.320 +/- 1.511
+Config number: 4
+p12: 0.80
+p22: 0.18
+p32: 0.12
+Mean response time: 1.238 +/- 0.006
+Mean remaining jobs: 13.790 +/- 1.558
+Config number: 5
+p12: 0.85
+p22: 0.14
+p32: 0.14
+Mean response time: 1.239 +/- 0.006
+Mean remaining jobs: 13.310 +/- 1.574
+Config number: 6
+p12: 0.85
+p22: 0.12
+p32: 0.20
+Mean response time: 1.236 +/- 0.008
+Mean remaining jobs: 12.750 +/- 1.192
+Config number: 7
+p12: 0.85
+p22: 0.12
+p32: 0.16
+Mean response time: 1.239 +/- 0.006
+Mean remaining jobs: 13.610 +/- 1.646
+Config number: 8
+p12: 0.75
+p22: 0.20
+p32: 0.14
+Mean response time: 1.238 +/- 0.007
+Mean remaining jobs: 13.700 +/- 1.637
+Config number: 9
+p12: 0.80
+p22: 0.18
+p32: 0.14
+Mean response time: 1.236 +/- 0.006
+Mean remaining jobs: 13.340 +/- 1.630
+Config number: 10
+p12: 0.80
+p22: 0.14
+p32: 0.20
+Mean response time: 1.230 +/- 0.006
+Mean remaining jobs: 13.730 +/- 1.773
